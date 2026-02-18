@@ -1,0 +1,10 @@
+desktop.ini
+Thumbs.db
+
+*.log
+
+__pycache__/
+*.pyc
+
+venv/
+.env/
